@@ -1,1 +1,2 @@
-This is some text used for a test. 
+This is some text used for a test.
+This is some more text for a second test. 
